@@ -1,3 +1,5 @@
+# SILVA TECH INC : THE EPITOME OF TECHNOLOGY
+
 # GPT + DALL-E + WhatsApp = AI Assistant 🚀
 
 ![Docker](https://github.com/askrella/whatsapp-chatgpt/actions/workflows/docker.yml/badge.svg)
