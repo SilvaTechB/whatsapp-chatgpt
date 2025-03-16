@@ -1,7 +1,9 @@
+# SILVA WHATSAPP CHATGPT
+
 # GPT + DALL-E + WhatsApp = AI Assistant 🚀
 
-![Docker](https://github.com/askrella/whatsapp-chatgpt/actions/workflows/docker.yml/badge.svg)
-![Prettier](https://github.com/askrella/whatsapp-chatgpt/actions/workflows/prettier.yml/badge.svg)
+![Docker](https://github.com/SilvaTechB/whatsapp-chatgpt/actions/workflows/docker.yml/badge.svg)
+![Prettier](https://github.com/SilvaTechB/whatsapp-chatgpt/actions/workflows/prettier.yml/badge.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 [![Discord Invite](https://dcbadge.vercel.app/api/server/9VJaRXKwd3)](https://discord.gg/9VJaRXKwd3)
@@ -25,7 +27,7 @@ You can talk to the bot in voice messages, the bot will transcribe and respond. 
 
 In the documentation you can find more information about how to install, configure and use this bot.
 
-<span style="font-size: 1.4rem;">➡️ https://askrella.github.io/whatsapp-chatgpt</span>
+<span style="font-size: 1.4rem;">➡️ https://silvatechb.github.io/whatsapp-chatgpt</span>
 
 ## Disclaimer
 
@@ -37,8 +39,8 @@ NOTE: We can't guarantee that you won't be blocked using this method, although i
 
 ## Contributors
 
-<a href="https://github.com/askrella/whatsapp-chatgpt/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=askrella/whatsapp-chatgpt" />
+<a href="https://github.com/SilvaTechB/whatsapp-chatgpt/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=SilvaTechB/whatsapp-chatgpt" />
 </a>
 
 ## Used libraries
