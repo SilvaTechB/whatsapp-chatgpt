@@ -67,3 +67,5 @@ Please, keep in mind that disabling the prompt moderation or modifying the black
 https://platform.openai.com/docs/guides/rate-limits
 
 If you are with heavy usage, you might run into the rate limit of Open API. Since the rate limit is on organization level, you could create another account and get a new API key separately. And then setting the keys into environment variables `OPENAI_API_KEYS`. API keys will be used in a random basis.
+
+## whatsapp chatgpt by SILVA TECH INC
