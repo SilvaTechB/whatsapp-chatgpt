@@ -16,3 +16,5 @@ const id: ICommandDefinition = {
 		message.reply(message.to);
 	}
 };
+
+
