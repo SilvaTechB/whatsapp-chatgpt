@@ -16,3 +16,4 @@ DALLE_PREFIX=!dalle
 STABLE_DIFFUSION_PREFIX=!sd
 AI_CONFIG_PREFIX=!config
 ```
+## silva whatsapp chatgpt
