@@ -48,3 +48,5 @@ Available values:
 	tts enabled: true, false
 	sd setModel: runwayml/stable-diffusion-v1-5
 ```
+
+## whatsapp chatgpt by SILVA TECH INC
