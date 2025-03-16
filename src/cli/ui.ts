@@ -10,7 +10,7 @@ export const printError = (text: string) => {
 
 export const printIntro = () => {
 	console.log("");
-	console.log(color.bgCyan(color.white(" Whatsapp ChatGPT & DALL-E ")));
+	console.log(color.bgCyan(color.white("Silva Whatsapp ChatGPT & DALL-E ")));
 	console.log("|-------------------------------------------------------------------------------------------------|");
 	console.log("| A Whatsapp bot that uses OpenAI's ChatGPT and DALL-E to generate text and images from a prompt. |");
 	console.log("|-------------------------------------------------------------------------------------------------|");
