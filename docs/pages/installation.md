@@ -8,3 +8,6 @@
 4. Run the bot using `npm run start`
 5. Scan the QR code with WhatsApp (link a device)
 6. Now you're ready to go! People can send you messages, and the bot will respond to them
+
+
+## whatsapp chatgpt by SILVA TECH INC
