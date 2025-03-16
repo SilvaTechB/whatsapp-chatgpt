@@ -18,4 +18,5 @@ jobs:
             - name: Run Prettier
               run: npm run prettier
               env:
-                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+
