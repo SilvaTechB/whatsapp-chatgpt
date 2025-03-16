@@ -99,3 +99,6 @@ The transcribed language is usually detected automatically, but if you want to e
 ```
 TRANSCRIPTION_LANGUAGE=en
 ```
+
+
+whatsapp chatgpt by SILVA TECH INC
